@@ -1,5 +1,5 @@
 # Python: Otimização do Sistema Bancário 🐍 💰
-Bem-vindo ao Desafio Python de Otimização do Sistema Bancário! Neste desafio, você terá a oportunidade de aprimorar o Sistema Bancário previamente desenvolvido, utilizando funções Python para implementar operações essenciais, como depósito, saque e extrato.
+Bem-vindo ao Desafio Python de Otimização do Sistema Bancário! Neste desafio, tive a oportunidade de aprimorar o Sistema Bancário previamente desenvolvido, utilizando funções Python para implementar operações essenciais, como depósito, saque , extrato.
 
 ## Objetivo
 O objetivo principal deste desafio é refatorar o código existente, transformando-o em um sistema mais modular e eficiente. A ideia é dividir o código em funções reutilizáveis, tornando-o mais fácil de entender, manter e expandir.
