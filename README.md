@@ -14,17 +14,17 @@ O objetivo principal deste desafio é refatorar o código existente, transforman
 '''
 git clone https://github.com/seu-usuario/desafio-python-bancario.git
 '''
-Abra o código-fonte do Sistema Bancário no seu editor de escolha.
-Identifique oportunidades para criar funções específicas para as operações mencionadas.
-Refatore o código, implementando as funções de forma modular.
-Teste o sistema para garantir que as operações continuem funcionando corretamente após as alterações.
-Documente seu código e explique suas escolhas de implementação no README.
-Faça um push das suas alterações para o repositório.
-Dicas
-Pense em como organizar suas funções para facilitar a reutilização e a manutenção do código.
-Considere a legibilidade do código e adote boas práticas de programação.
-Experimente aplicar conceitos avançados de Python, como list comprehensions e manipulação de exceções, quando apropriado.
-Contribuição
+2. Abra o código-fonte do Sistema Bancário no seu editor de escolha.
+3. Identifique oportunidades para criar funções específicas para as operações mencionadas.
+4. Refatore o código, implementando as funções de forma modular.
+5. Teste o sistema para garantir que as operações continuem funcionando corretamente após as alterações.
+6. Documente seu código e explique suas escolhas de implementação no README.
+7. Faça um push das suas alterações para o repositório.
+## Dicas
+* Pense em como organizar suas funções para facilitar a reutilização e a manutenção do código.
+* Considere a legibilidade do código e adote boas práticas de programação.
+* Experimente aplicar conceitos avançados de Python, como list comprehensions e manipulação de exceções, quando apropriado.
+## Contribuição
 Sinta-se à vontade para contribuir para este repositório. Se você tiver sugestões de melhorias ou encontrar maneiras de otimizar ainda mais o código, abra uma issue ou envie um pull request.
 
 Divirta-se otimizando e aprimorando o Sistema Bancário em Python!
