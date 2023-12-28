@@ -1,4 +1,4 @@
-# Python: Otimização do Sistema Bancário
+# Python: Otimização do Sistema Bancário 🐍 💰
 Bem-vindo ao Desafio Python de Otimização do Sistema Bancário! Neste desafio, você terá a oportunidade de aprimorar o Sistema Bancário previamente desenvolvido, utilizando funções Python para implementar operações essenciais, como depósito, saque e extrato.
 
 ## Objetivo
@@ -11,10 +11,11 @@ O objetivo principal deste desafio é refatorar o código existente, transforman
   
 ## Instruções
 1. Clone este repositório para sua máquina local.
-'''
-#!/bin/bash
-echo "git clone https://github.com/seu-usuario/desafio-python-bancario.git"
-'''
+   
+```#!/bin/bash
+git clone https://github.com/seu-usuario/desafio-python-bancario.git
+```
+
 3. Abra o código-fonte do Sistema Bancário no seu editor de escolha.
 4. Identifique oportunidades para criar funções específicas para as operações mencionadas.
 5. Refatore o código, implementando as funções de forma modular.
